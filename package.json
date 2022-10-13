@@ -16,10 +16,6 @@
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
-    "lodash": "^4.17.21",
     "nodemon": "^2.0.20"
-  },
-  "options":{
-    "only" : "dev"
   }
 }
