@@ -7,3 +7,7 @@ export const DB_PASSWORD = process.env.DB_PASSWORD || '1023';
 export const DB_NAME = process.env.DB_NAME || 'pruebita';
 
 export const DB_PORT = process.env.DB_PORT || 3000;
+
+// "devDependencies": {
+//     "nodemon": "^2.0.20"
+//   }
